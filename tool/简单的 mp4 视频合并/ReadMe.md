@@ -44,7 +44,7 @@ ffmpeg -f concat -safe 0 -i fileName.txt -c copy new.mp4
 >
 > 动态图示范：
 >
-> ![](视频合并 v0.1 演示.gif)
+> ![](./视频合并 v0.1 演示.gif)
 
 ### 视频合并 v0.2
 
@@ -57,7 +57,7 @@ ffmpeg -f concat -safe 0 -i fileName.txt -c copy new.mp4
 >
 > 动态图示范：
 >
-> ![](视频合并 v0.2 演示.gif)
+> ![](./视频合并 v0.2 演示.gif)
 
 ### 后记
 
