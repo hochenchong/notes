@@ -44,7 +44,7 @@ ffmpeg -f concat -safe 0 -i fileName.txt -c copy new.mp4
 >
 > 动态图示范：
 >
-> ![](./视频合并 v0.1 演示.gif)
+> ![](https://github.com/hochenchong/notes/blob/master/tool/%E7%AE%80%E5%8D%95%E7%9A%84%20mp4%20%E8%A7%86%E9%A2%91%E5%90%88%E5%B9%B6/%E8%A7%86%E9%A2%91%E5%90%88%E5%B9%B6%20v0.1%20%E6%BC%94%E7%A4%BA.gif?raw=true)
 
 ### 视频合并 v0.2
 
@@ -57,7 +57,7 @@ ffmpeg -f concat -safe 0 -i fileName.txt -c copy new.mp4
 >
 > 动态图示范：
 >
-> ![](./视频合并 v0.2 演示.gif)
+> ![](https://github.com/hochenchong/notes/blob/master/tool/%E7%AE%80%E5%8D%95%E7%9A%84%20mp4%20%E8%A7%86%E9%A2%91%E5%90%88%E5%B9%B6/%E8%A7%86%E9%A2%91%E5%90%88%E5%B9%B6%20v0.2%20%E6%BC%94%E7%A4%BA.gif?raw=true)
 
 ### 后记
 
