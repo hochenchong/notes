@@ -22,8 +22,8 @@ ffmpeg -f concat -safe 0 -i fileName.txt -c copy new.mp4
 
 ### 适用范围
 
-> * 需要合并的视频格式为 mp4，且在同一个文件夹下
->
+> * Windows 环境下
+>* 需要合并的视频格式为 mp4，且在同一个文件夹下
 > * 可自行替换 FFmpeg 版本，官网：[http://ffmpeg.org/](http://ffmpeg.org/)
 >
 >   本处使用的版本为：ffmpeg version N-95027-g8c90bb8ebb Copyright (c) 2000-2019 the FFmpeg developers built with gcc 9.2.1 (GCC) 20190918
